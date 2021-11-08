@@ -2,6 +2,7 @@
 
 * 친구 및 친구가 아닌 사람들과 여러 파일을 공유하며 채팅할 수 있는 채팅 프로그램
 * [Notion](https://royal-camp-f5f.notion.site/Covengers-Chat-72222b9e391947959772b5419c2cc4c0)
+* Project 기간 : 2021.07.26 ~ 2021.10.13
 
 ## :family_man_boy_boy: 팀원 소개
 
