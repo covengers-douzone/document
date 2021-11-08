@@ -1,8 +1,7 @@
-# :speech_balloon: COVENGERS CHAT
+# <img src="./images/covengers_logo.png" width="40px" /> COVENGERS CHAT 
 
-* 친구 및 친구가 아닌 사람들과 여러 파일을 공유하며 채팅할 수 있는 채팅 프로그램
-* [Notion](https://royal-camp-f5f.notion.site/Covengers-Chat-72222b9e391947959772b5419c2cc4c0)
-* Project 기간 : 2021.07.26 ~ 2021.10.13
+* :speech_balloon: 친구 및 친구가 아닌 사람들과 여러 파일을 공유하며 채팅할 수 있는 채팅 프로그램 
+* :calendar: 2021.07.26 ~ 2021.10.13
 
 ## :family_man_boy_boy: 팀원 소개
 
@@ -14,6 +13,8 @@
 
 
 ## :heavy_check_mark: Rules
+
+<img src="./images/covengers_보드.jpg" width="20%" />
 
 - 기분 좋게 알려주고 기분 좋게 배우자 !
 - 모르는 거 있으면 **바로** 물어보기
@@ -68,3 +69,4 @@
 * [React](https://github.com/covengers-douzone/hungry-chat-react)
 * [Spring](https://github.com/covengers-douzone/hungry-chat-spring)
 * [Node](https://github.com/covengers-douzone/hungry-chat-node)
+* [Notion(협업도구)](https://royal-camp-f5f.notion.site/Covengers-Chat-72222b9e391947959772b5419c2cc4c0)
